@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="RadioButton1">Add</string>
+    <string name="radioButton2">Subtract</string>
+    <string name="radioButton3">Multiply</string>
+    <string name="radioButton4">Divide</string>
+    <string name="radioButton5">Modulo</string>
+    <string name="total_value">0</string>
+    <string name="num2">0</string>
+    <string name="num1">0</string>
+</resources>
